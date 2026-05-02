@@ -1,6 +1,7 @@
 # Super TS Mario (Phaser 3 Game)
 
 TypeScript と Phaser 3 を使用して制作した、ブラウザで遊べるマリオ風アクションゲームです。
+<img width="1041" height="740" alt="スクリーンショット 2026-05-01 172030" src="https://github.com/user-attachments/assets/14985d5e-b324-46f0-8b31-97fb47485faa" />
 
 ## 🎮 ゲーム概要
 シンプルな横スクロールアクションゲームです。
